@@ -90,4 +90,4 @@ The primary output of the project is the generated image from the Neural Style T
 
 The final image is generated in **Cell 73** after the optimization loop.
 
-*(You can save the output from the notebook and add it here for display)*
+
